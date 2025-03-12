@@ -22,12 +22,13 @@ Documenting my learning journey and daily progress.
 ---
 
 ## 📂 文件结构
-## 📌 已完成题目
+## 📝 已完成题目
+
 ### Array
-| 题号 | 题目                   | 难度 | 解法        | 文件路径                                          |
-|------|------------------------|------|-------------|---------------------------------------------------|
-| 35   | Search Insert Position | Easy | Binary Search | [35_Search_Insert_Position.cpp](./Array/35_Search_Insert_Position.cpp) |
-| 724  | Find Pivot Index       | Easy | Prefix Sum  | [724_Find_Pivot_Index.cpp](./Array/724_Find_Pivot_Index.cpp)     |
+| 题号 | 题目                   | 难度 | 解法          | 文件路径                                         |
+|------|------------------------|------|---------------|--------------------------------------------------|
+| 35   | Search Insert Position | Easy | Binary Search | [查看代码](./Array/35_Search_Insert_Position.cpp) |
+| 724  | Find Pivot Index       | Easy | Prefix Sum    | [查看代码](./Array/724_Find_Pivot_Index.cpp)     |
 
 ---
 
