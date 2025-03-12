@@ -26,8 +26,8 @@ Documenting my learning journey and daily progress.
 ### Array
 | 题号 | 题目                   | 难度 | 解法        | 文件路径                                          |
 |------|------------------------|------|-------------|---------------------------------------------------|
-| 35   | Search Insert Position | Easy | Binary Search | [查看代码](/Volumes/硬盘/LeetCode-Cpp/2025-3-12数组/35_Search_Insert_Position.cpp) |
-| 724  | Find Pivot Index       | Easy | Prefix Sum  | [查看代码](/Volumes/硬盘/LeetCode-Cpp/2025-3-12数组/724_Find_Pivot_Index.cpp)     |
+| 35   | Search Insert Position | Easy | Binary Search | [35_Search_Insert_Position.cpp](./Array/35_Search_Insert_Position.cpp) |
+| 724  | Find Pivot Index       | Easy | Prefix Sum  | [724_Find_Pivot_Index.cpp](./Array/724_Find_Pivot_Index.cpp)     |
 
 ---
 
